@@ -1,3 +1,5 @@
+## Added: If no localStorage property is defined on the model or collection, the original Backbone.sync will be used
+
 # Backbone localStorage Adapter v1.0
 
 Quite simply a localStorage adapter for Backbone. It's a drop-in replacement for Backbone.Sync() to handle saving to a localStorage database.
